@@ -1,2 +1,2 @@
 # batalha-naval
-sacola
+projeto envolvendo tecnicas basicas de inteligencia computacional
